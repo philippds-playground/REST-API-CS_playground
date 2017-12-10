@@ -1,2 +1,4 @@
 # directory
 .vs
+cs_restClient/bin
+cs_restClient/obj
