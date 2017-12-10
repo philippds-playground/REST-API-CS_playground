@@ -8,3 +8,13 @@ C:\Users\Philipp\Documents\Visual Studio 2017\Projects\cs_restClient\cs_restClie
 C:\Users\Philipp\Documents\Visual Studio 2017\Projects\cs_restClient\cs_restClient\obj\Debug\cs_restClient.exe
 C:\Users\Philipp\Documents\Visual Studio 2017\Projects\cs_restClient\cs_restClient\obj\Debug\cs_restClient.pdb
 C:\Users\Philipp\Documents\Visual Studio 2017\Projects\cs_restClient\cs_restClient\obj\Debug\cs_restClient.csprojResolveAssemblyReference.cache
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\bin\Debug\cs_restClient.exe.config
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\bin\Debug\cs_restClient.exe
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\bin\Debug\cs_restClient.pdb
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\obj\Debug\cs_restClient.csprojResolveAssemblyReference.cache
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\obj\Debug\cs_restClient.Form1.resources
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\obj\Debug\cs_restClient.Properties.Resources.resources
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\obj\Debug\cs_restClient.csproj.GenerateResource.Cache
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\obj\Debug\cs_restClient.csproj.CoreCompileInputs.cache
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\obj\Debug\cs_restClient.exe
+C:\Users\pdsie\Documents\dev\projects\github\cs_gh_component_rest_client\cs_restClient\obj\Debug\cs_restClient.pdb

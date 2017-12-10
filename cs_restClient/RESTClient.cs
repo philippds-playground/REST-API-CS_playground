@@ -22,7 +22,7 @@ namespace cs_restClient
         {
             endPoint = string.Empty;
             httpMethod = httpVerb.GET;
-            // GETRequest.Headers.Add("x-api-key", "QYi7JGgICN2wKLP0K1cof8v6veepaSu97R31G0m7");
+
         }
 
         public string makeRequest()
@@ -31,7 +31,11 @@ namespace cs_restClient
 
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(endPoint);
             request.Method = httpMethod.ToString();
-            request.Headers.Add("x-api-key", "QYi7JGgICN2wKLP0K1cof8v6veepaSu97R31G0m7");
+            request.Headers.Add("api-key", "QYi7JGgICN2wKLP0K1cof8v6veepaSu97R31G0m7");
+
+            // https://apidocs.opensensors.com/
+            // https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#4xx_Client_Error
+            // https://api.opensensors.com/getProjectMessages
 
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
             {
